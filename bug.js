@@ -1,0 +1,1 @@
+This error occurs when using the Expo Camera API and attempting to access the camera features before the camera is fully initialized.  It typically manifests as a TypeError: Cannot read properties of undefined (reading 'takePictureAsync') or a similar error indicating that the camera object is not yet available.
